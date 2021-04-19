@@ -1,0 +1,21 @@
+name: StaffPlugin
+author: Mandress101
+version: 0.1
+main: it.Mandress101.StaffPlugin
+commands:
+    staffplugin:
+        description: Main command
+    gm:
+        description: Second command
+    gms:
+        description: Survival
+    gmc:
+        description: Creative
+    gma:
+        description: Adventure
+    gmsp:
+        description: Spectator
+    heal:
+        description: cura
+    staffly:
+        description: fly
