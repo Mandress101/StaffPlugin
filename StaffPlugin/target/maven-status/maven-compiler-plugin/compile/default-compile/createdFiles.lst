@@ -1,0 +1,13 @@
+it\Mandress101\Commands\Staffly.class
+it\Mandress101\Commands\PlayerInfo.class
+it\Mandress101\Utilities\Configs.class
+it\Mandress101\Commands\GmaCommand.class
+it\Mandress101\Utilities\Configurations.class
+it\Mandress101\Utilities\PLUTILS.class
+it\Mandress101\Commands\HealCommand.class
+it\Mandress101\Commands\GmcCommand.class
+it\Mandress101\Commands\GmspCommand.class
+it\Mandress101\Commands\GamemodeCommands.class
+it\Mandress101\Commands\GmsCommand.class
+it\Mandress101\Commands\StaffPluginCommand.class
+it\Mandress101\StaffPlugin.class
